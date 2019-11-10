@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.school</groupId>
 	<artifactId>MPPSGovrn</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	
 	<packaging>war</packaging>
 	<name>MPPSGovrn</name>
 	<description>School project for Spring Boot</description>
